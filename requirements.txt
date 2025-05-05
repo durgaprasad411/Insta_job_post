@@ -1,5 +1,5 @@
 Pillow
-tkinter
+tk==8.6.9
 Pillow
 streamlit==1.45.0
 rich>=10.14.0
