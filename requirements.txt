@@ -1,5 +1,2 @@
-Pillow
-#tk==8.6.9
-Pillow
-streamlit==1.45.0
-#rich>=10.14.0
+pillow>=10.0.0
+streamlit>=1.0.0
